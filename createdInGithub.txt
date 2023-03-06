@@ -1,1 +1,2 @@
 Testuju v gitu
+2. změna přidaná v Github.
